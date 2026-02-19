@@ -1,0 +1,7 @@
+pilot_id,name,skills,certifications,location,status,current_assignment,available_from,daily_rate_inr
+P001,Arjun,Mapping,DGCA,Bangalore,Available,-,2026-02-05,1500
+P002,Neha,Inspection,DGCA,Mumbai,Assigned,Project-A,2026-02-12,3000
+P003,Rohit,"Inspection, Mapping",DGCA,Mumbai,Available,-,2026-02-05,1500
+P004,Sneha,"Survey, Thermal","DGCA, Night Ops",Bangalore,On Leave,-,2026-02-15,5000
+P005,Vikram,"Thermal, RGB","DGCA, Night Ops",Mumbai,Available,-,2026-02-01,4000
+P006,Priya,Survey,DGCA,Delhi,Unavailable,-,2026-03-01,2000
